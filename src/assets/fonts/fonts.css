@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "DINNext";
+    src: url("./DIN NEXT™ ARABIC ULTRALIGHT.otf") format("opentype");
+    font-weight: 200;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: "DINNext";
+    src: url("./DIN NEXT™ ARABIC LIGHT.otf") format("opentype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: "DINNext";
+    src: url("./DIN NEXT™ ARABIC REGULAR.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: "DINNext";
+    src: url("./DIN NEXT™ ARABIC MEDIUM.otf") format("opentype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: block;
+}
+@font-face {
+    font-family: "DINNext";
+    src: url("./DIN NEXT™ ARABIC BOLD.otf") format("opentype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: block;
+}
