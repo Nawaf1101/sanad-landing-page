@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-Features
+## Features
 
 Built with React and TypeScript for maintainability and type safety.
 
@@ -21,7 +21,7 @@ Modern and reusable UI components using Chakra UI v3.
 
 Clean and organized codebase, easy for new developers to follow.
 
-Requirements
+## Requirements
 
 Node.js (latest LTS version recommended)
 
